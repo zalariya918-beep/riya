@@ -1,3 +1,3 @@
 # first
-this is my first repository
-author - firstt
+this is my first repository.
+author - riya
